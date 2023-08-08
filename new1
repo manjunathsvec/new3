@@ -1,2 +1,10 @@
 this is test
 this is second line
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           385M     0  385M   0% /dev/shm
+tmpfs           154M   11M  144M   7% /run
+/dev/xvda4      9.4G  1.6G  7.9G  17% /
+/dev/xvda3      495M  267M  229M  54% /boot
+/dev/xvda2      200M   20K  200M   1% /boot/efi
+tmpfs            77M     0   77M   0% /run/user/1000
